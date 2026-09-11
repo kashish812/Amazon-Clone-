@@ -114,5 +114,34 @@ border: none;
     font-size: 0.85rem;
     font-weight: 700;
 }
+.navbar2{
+    height: 30px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly ;
 
+
+}
+.fresh  border{
+    display: flex;
+    justify-content:space-evenly ;
+    margin-left: 15px;
+    
+}
+.menu{
+    font-weight: 700;
+}
+.hero-section img{
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+
+.hero-text{
+    height: 40px;
+    background-color: white;
+    font-size: black;
+}
 
